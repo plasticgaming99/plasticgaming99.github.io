@@ -30,6 +30,7 @@ inf{
     color          : white;            /* 文字の色 */
     font-size      : 28pt;               /* 文字のサイズ */
     letter-spacing : 4px;                /* 文字間 */
+    font-family: sans-serif;
     text-shadow    : 
          2px  2px 1px #000000,
         -2px  2px 1px #000000,
@@ -41,11 +42,12 @@ inf{
          0px -2px 1px #000000;        /* 文字の影 */
 }
 
-.outline2 {
+.maintext {
     display        : inline-block;
     color          : gainsboro;            /* 文字の色 */
     font-size      : 18pt;               /* 文字のサイズ */
     letter-spacing : 4px;                /* 文字間 */
+    font-family: sans-serif;
     text-shadow    : 
          2px  2px 1px #000000,
         -2px  2px 1px #000000,
