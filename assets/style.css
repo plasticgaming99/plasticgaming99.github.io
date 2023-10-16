@@ -8,12 +8,12 @@ p{
 }
 
 info{
-    padding-top: 60px;
-    margin: 10px;
+    padding-top: 4.4vw;
+    margin: 0.075vw;
 }
 
 .link-artex{
-    font-size: 14px;
+    font-size: 1vw;
 }
 
 .bginfo{
@@ -28,33 +28,33 @@ info{
 .itismain {
     display        : inline-block;
     color          : white;            /* 文字の色 */
-    font-size      : 28pt;               /* 文字のサイズ */
-    letter-spacing : 4px;                /* 文字間 */
+    font-size      : 2.7vw;               /* 文字のサイズ */
+    letter-spacing : 0.3vw;                /* 文字間 */
     font-family: sans-serif;
     text-shadow    : 
-         2px  2px 1px #000000,
-        -2px  2px 1px #000000,
-         2px -2px 1px #000000,
-        -2px -2px 1px #000000,
-         2px  0px 1px #000000,
-         0px  2px 1px #000000,
-        -2px  0px 1px #000000,
-         0px -2px 1px #000000;        /* 文字の影 */
+         0.15vw  0.15vw 0.075vw #000000,
+        -0.15vw  0.15vw 0.075vw #000000,
+         0.15vw -0.15vw 0.075vw #000000,
+        -0.15vw -0.15vw 0.075vw #000000,
+         0.15vw  0vw 0.075vw #000000,
+         0vw  0.15vw 0.075vw #000000,
+        -0.15vw  0vw 0.075vw #000000,
+         0px -0.15vw 0.075vw #000000;        /* 文字の影 */
 }
 
 .maintext {
     display        : inline-block;
     color          : gainsboro;            /* 文字の色 */
-    font-size      : 18pt;               /* 文字のサイズ */
-    letter-spacing : 4px;                /* 文字間 */
+    font-size      : 1.8vw;               /* 文字のサイズ */
+    letter-spacing : 0.3vw;                /* 文字間 */
     font-family: sans-serif;
     text-shadow    : 
-         2px  2px 1px #000000,
-        -2px  2px 1px #000000,
-         2px -2px 1px #000000,
-        -2px -2px 1px #000000,
-         2px  0px 1px #000000,
-         0px  2px 1px #000000,
-        -2px  0px 1px #000000,
-         0px -2px 1px #000000;        /* 文字の影 */
+         0.15vw  0.15vw 0.075vw #000000,
+        -0.15vw  0.15vw 0.075vw #000000,
+         0.15vw -0.15vw 0.075vw #000000,
+        -0.15vw -0.15vw 0.075vw #000000,
+         0.15vw  0px 0.075vw #000000,
+         0px  0.15vw 0.075vw #000000,
+        -0.15vw  0px 0.075vw #000000,
+         0px -0.15vw 0.075vw #000000;        /* 文字の影 */
 }
