@@ -1,0 +1,34 @@
+# This is an example PKGBUILD file. Use this as a start to creating your own,
+# and remove these comments. For more information, see 'man PKGBUILD'.
+# NOTE: Please fill out the license field for your package! If it is unknown,
+# then please put 'unknown'.
+
+# Maintainer: plasicgaming99 <plsplastic-roblox@protonmail.com>
+pkgname=util-linux-ex
+pkgver=1.0.0
+
+pkgrel=1
+epoch=
+pkgdesc=""
+arch=('any')
+url=""
+license=('WTFPL')
+depends=('coreutils')
+makedepends=()
+checkdepends=()
+optdepends=()
+options=()
+source=()
+noextract=()
+
+build() {
+	mkdir -p "$pkgname-$pkgver/bin"
+	cd "$pkgname-$pkgver"
+	ln -s "/bin/busybox" "bin/tree"
+}
+
+package() {
+	cd "$pkgname-$pkgver/bin"
+	mkdir -p "$pkgdir/usr/bin"
+	install -Dm755 tree "$pkgdir/usr/bin/"
+}

@@ -1,0 +1,310 @@
+[1m[36m           [30m.[36m-------------------------:    
+          .[32m+=[36m========================.    
+         :[32m++[36m===[32m++===[36m===============-       :[32m++[36m-    
+        :[32m*++[36m====[32m+++++==[36m===========-        .==:    
+       -[32m*+++[36m=====[32m+***++=[36m=========:    
+      =[32m*++++=[36m=======------------:    
+     =[32m*+++++=[36m====-                     [30m...[36m    
+   .[32m+*+++++[36m=-===:                    .[32m=+++=[36m:    
+  :[32m++++[36m=====-==:                     -***[32m**[36m+    
+ :[32m++=[36m=======-=.                      .=+**+[30m.[36m    
+.[32m+[36m==========-.                          [30m.[36m    
+ :[32m+++++++[36m====-                                [30m.[36m--==-[30m.[36m    
+  :[32m++[36m==========.                             [30m:[32m+++++++[36m[30m:    
+   [36m.-===========.                            =*****+*+    
+    [36m.-===========:                           .+*****+:    
+      [36m-=======[32m++++[36m:::::::::::::::::::::::::-:  [30m.[36m---:    
+       :======[32m++++[36m====[32m+++******************=.    
+        [36m:=====[32m+++[36m==========[32m++++++++++++++*-    
+         [36m.====[32m++[36m==============[32m++++++++++*-    
+          [36m.===[32m+[36m==================[32m+++++++:    
+           [36m.-=======================[32m+++:    
+             [30m..........................[0m[1G[21A[0m[?25l[?7l[58C[1m[36mplastek[0m@[1m[36mplastekcachy[0m
+[58C--------------------
+[58C[0m[1m[36mOS[0m: [0mCachyOS Linux x86_64
+[58C[0m[1m[36mHost[0m: [0mFMVA50B3WP
+[58C[0m[1m[36mKernel[0m: [0m6.5.7-1-cachyos-pds-lto
+[58C[0m[1m[36mUptime[0m: [0m5 hours, 45 mins
+[58C[0m[1m[36mPackages[0m: [0m1735 (pacman)
+[58C[0m[1m[36mShell[0m: [0mfish 3.6.1
+[58C[0m[1m[36mDisplay (CMN15DC)[0m: [0m1366x768 @ 60Hz
+[58C[0m[1m[36mDE[0m: [0mKDE Plasma 5.27.8
+[58C[0m[1m[36mWM[0m: [0mKWin (X11)
+[58C[0m[1m[36mWM Theme[0m: [0mK01
+[58C[0m[1m[36mTheme[0m: [0mFusion (PlasmaXLight) [QT], Breeze [GTK2/3/4]
+[58C[0m[1m[36mIcons[0m: [0mbreeze [QT], breeze [GTK2/3/4]
+[58C[0m[1m[36mFont[0m: [0mNoto Sans CJK JP (10pt) [QT], Noto Sans CJK JP (10pt) [GTK2/3/4]
+[58C[0m[1m[36mCursor[0m: [0maerodrop (24px)
+[58C[0m[1m[36mTerminal[0m: [0mbusybox
+[58C[0m[1m[36mCPU[0m: [0mIntel(R) Core(TM) i7-7700HQ (8) @ 3.80 GHz
+[58C[0m[1m[36mGPU[0m: [0mIntel HD Graphics 630
+[58C[0m[1m[36mMemory[0m: [0m1.93 GiB / 3.68 GiB (52%)
+[58C[0m[1m[36mDisk (]8;;file:///\/]8;;\)[0m: [0m87.33 GiB / 169.92 GiB (51%) - ext4
+[58C[0m[1m[36mDisk (]8;;file:///mnt/alpine\/mnt/alpine]8;;\)[0m: [0m31.38 GiB / 48.99 GiB (64%) - ext4
+[58C[0m[1m[36mBattery[0m: [0m94% [Not charging]
+[58C[0m[1m[36mLocale[0m: [0mja_JP.UTF-8
+[58C
+[58C[40;30m███[41;31m███[42;32m███[43;33m███[44;34m███[45;35m███[46;36m███[47;37m███[0m
+[58C[1;40;30;100;90m███[1;41;31;101;91m███[1;42;32;102;92m███[1;43;33;103;93m███[1;44;34;104;94m███[1;45;35;105;95m███[1;46;36;106;96m███[1;47;37;107;97m███[0m
+[?7h[?25h[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[35m❯(B[m [K[C[Cb[3C[91mb[3C[30m(B[m[38;2;85;85;85mb script[3C[30m(B[m[91mb[38;2;85;85;85m script[4C[30m(B[m[34mbb[38;2;85;85;85m script[4C[30m(B[m[34m [38;2;85;85;85mscript[5C[30m(B[m [38;2;85;85;85mscript[5C[30m(B[m[K[4C[K[3C[91mb[3C[30m(B[m[K[C[Ci[3C[91mi[3C[30m(B[m[38;2;85;85;85mdle[3C[30m(B[m[91mf[30m(B[m[K[4C[34mif[4C[30m(B[mif()[5C[91mif()[5C[30m(B[m[91mr)[6C[30m(B[m[91m)[30m(B[m[K[5C[91mt)[6C[30m(B[m[91mr)[7C[30m(B[m[91mu)[8C[30m(B[m[91me)[9C[30m(B[m[91m=)[10C[30m(B[m[91mt)[11C[30m(B[m[91mr)[12C[30m(B[m[91mu)[13C[30m(B[m[91me)[14C[30m(B[m[15C[13Dif(true=true){}[16C[14D[91mif(true=true){}[16C[30m(B[m
+fish: command substitutions not allowed here
+if(true=true){}
+  ^~~~~~~~~~^
+[2m⏎(B[m                                                                                             ⏎ [K[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[35m❯(B[m [91mif(true=true){}[30m(B[m[K[16C]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[A[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[35m❯(B[m [91mif(true=true){}[30m(B[m[K[16C[K[16C[K[15C[K[14C[K[13C[K[12C[K[11C[K[10C[K[9C[K[8C[K[7C[K[6C[K[5C[K[4C[34mif[4C[30m(B[m[K[3C[91mi[3C[30m(B[m[K[C[Cb[3C[38;2;85;85;85mb script[3C[30m(B[m[91mb[38;2;85;85;85mb script[3C[30m(B[m[91mb[38;2;85;85;85m script[4C[30m(B[m[34mbb[38;2;85;85;85m script[4C[30m(B[m[34m [38;2;85;85;85mscript[5C[30m(B[m [38;2;85;85;85mscript[5C[30m(B[ms[38;2;85;85;85mcript[6C[30m(B[m[36ms[38;2;85;85;85mcript[6C[30m(B[m[36mc[38;2;85;85;85mript[7C[30m(B[m[36mr[38;2;85;85;85mipt[8C[30m(B[m[36mi[38;2;85;85;85mpt[9C[30m(B[m[36mp[38;2;85;85;85mt[10C[30m(B[m[36mt[11C[30m(B[m[11C[36ml[12C[30m(B[m[36mi[13C[30m(B[m[36mv[14C[30m(B[m[36me[15C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb scriptlive - bb[30m(B[mscriptlive: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb scriptlive[3C[30m(B[m[91mb[38;2;85;85;85mb scriptlive[3C[30m(B[m[91mb[38;2;85;85;85m scriptlive[4C[30m(B[m[34mbb[38;2;85;85;85m scriptlive[4C[30m(B[m[34m [38;2;85;85;85mscriptlive[5C[30m(B[m [38;2;85;85;85mscriptlive[5C[30m(B[ms[38;2;85;85;85mcriptlive[6C[30m(B[m[36ms[38;2;85;85;85mcriptlive[6C[30m(B[m[36mc[38;2;85;85;85mriptlive[7C[30m(B[m[36mr[38;2;85;85;85miptlive[8C[30m(B[m[36mi[38;2;85;85;85mptlive[9C[30m(B[m[36mp[38;2;85;85;85mtlive[10C[30m(B[m[36mt[38;2;85;85;85mlive[11C[30m(B[m[36mr[30m(B[m[K[12C[36me[13C[30m(B[m[36mp[14C[30m(B[m[36ml[15C[30m(B[m[36ma[16C[30m(B[m[36my[17C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb scriptreplay - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: scriptreplay TIMINGFILE [TYPESCRIPT [DIVISOR]]
+
+Play back typescripts, using timing information
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb scriptreplay[3C[30m(B[m[91mb[38;2;85;85;85mb scriptreplay[3C[30m(B[m[91mb[38;2;85;85;85m scriptreplay[4C[30m(B[m[34mbb[38;2;85;85;85m scriptreplay[4C[30m(B[m[34m [38;2;85;85;85mscriptreplay[5C[30m(B[m [38;2;85;85;85mscriptreplay[5C[30m(B[ms[38;2;85;85;85mcriptreplay[6C[30m(B[m[36ms[38;2;85;85;85mcriptreplay[6C[30m(B[m[36me[30m(B[m[K[7C[38;2;85;85;85md[7C[30m(B[m[36mt[8C[30m(B[m[36ma[9C[30m(B[m[36mr[10C[30m(B[m[36mc[11C[30m(B[m[36mh[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb setarch - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: setarch PERSONALITY [-R] PROG ARGS
+
+PERSONALITY may be:
+	linux32	Set 32bit uname emulation
+	linux64	Set 64bit uname emulation
+
+	-R	Disable address space randomization
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb setarch[3C[30m(B[m[91mb[38;2;85;85;85mb setarch[3C[30m(B[m[91mb[38;2;85;85;85m setarch[4C[30m(B[m[34mbb[38;2;85;85;85m setarch[4C[30m(B[m[34m [38;2;85;85;85msetarch[5C[30m(B[m [38;2;85;85;85msetarch[5C[30m(B[ms[38;2;85;85;85metarch[6C[30m(B[m[36ms[38;2;85;85;85metarch[6C[30m(B[m[36me[38;2;85;85;85mtarch[7C[30m(B[m[36mt[38;2;85;85;85march[8C[30m(B[m[36mp[30m(B[m[K[9C[36mr[10C[30m(B[m[36mi[11C[30m(B[m[36mv[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb setpriv - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: setpriv [OPTIONS] PROG ARGS
+
+Run PROG with different privilege settings
+
+-d,--dump		Show current capabilities
+--nnp,--no-new-privs	Ignore setuid/setgid bits and file capabilities
+--inh-caps CAP,CAP	Set inheritable capabilities
+--ambient-caps CAP,CAP	Set ambient capabilities
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb setpriv[3C[30m(B[m[91mb[38;2;85;85;85mb setpriv[3C[30m(B[m[91mb[38;2;85;85;85m setpriv[4C[30m(B[m[34mbb[38;2;85;85;85m setpriv[4C[30m(B[m[34m [38;2;85;85;85msetpriv[5C[30m(B[m [38;2;85;85;85msetpriv[5C[30m(B[ms[38;2;85;85;85metpriv[6C[30m(B[m[36ms[38;2;85;85;85metpriv[6C[30m(B[m[36me[38;2;85;85;85mtpriv[7C[30m(B[m[36mt[38;2;85;85;85mpriv[8C[30m(B[m[36ms[30m(B[m[K[9C[36mi[10C[30m(B[m[36md[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb setsid - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: setsid [-c] PROG ARGS
+
+Run PROG in a new session. PROG will have no controlling terminal
+and will not be affected by keyboard signals (^C etc).
+
+	-c	Set controlling terminal to stdin
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb setsid[3C[30m(B[m[91mb[38;2;85;85;85mb setsid[3C[30m(B[m[91mb[38;2;85;85;85m setsid[4C[30m(B[m[34mbb[38;2;85;85;85m setsid[4C[30m(B[m[34m [38;2;85;85;85msetsid[5C[30m(B[m [38;2;85;85;85msetsid[5C[30m(B[ms[38;2;85;85;85metsid[6C[30m(B[m[36ms[38;2;85;85;85metsid[6C[30m(B[m[36me[38;2;85;85;85mtsid[7C[30m(B[m[36mt[38;2;85;85;85msid[8C[30m(B[m[36mt[30m(B[m[K[9C[36me[10C[30m(B[m[36mr[11C[30m(B[m[36mm[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb setterm - bb[30m(B[msetterm: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb setterm[3C[30m(B[m[91mb[38;2;85;85;85mb setterm[3C[30m(B[m[91mb[38;2;85;85;85m setterm[4C[30m(B[m[34mbb[38;2;85;85;85m setterm[4C[30m(B[m[34m [38;2;85;85;85msetterm[5C[30m(B[m [38;2;85;85;85msetterm[5C[30m(B[ms[38;2;85;85;85metterm[6C[30m(B[m[36ms[38;2;85;85;85metterm[6C[30m(B[m[36mf[30m(B[m[K[7C[36md[8C[30m(B[m[36mi[9C[30m(B[m[36ms[10C[30m(B[m[36mk[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb sfdisk - bb[30m(B[msfdisk: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb sfdisk[3C[30m(B[m[91mb[38;2;85;85;85mb sfdisk[3C[30m(B[m[91mb[38;2;85;85;85m sfdisk[4C[30m(B[m[34mbb[38;2;85;85;85m sfdisk[4C[30m(B[m[34m [38;2;85;85;85msfdisk[5C[30m(B[m [38;2;85;85;85msfdisk[5C[30m(B[ms[38;2;85;85;85mfdisk[6C[30m(B[m[36ms[38;2;85;85;85mfdisk[6C[30m(B[m[36mu[30m(B[m[K[7C[38;2;85;85;85mm[7C[30m(B[m[K[7C
+[30m(B[m[?2004l]0;cronie: bb su - bb[30m(B[msu: must be suid to work properly
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb su[3C[30m(B[m[91mb[38;2;85;85;85mb su[3C[30m(B[m[91mb[38;2;85;85;85m su[4C[30m(B[m[34mbb[38;2;85;85;85m su[4C[30m(B[m[34m [38;2;85;85;85msu[5C[30m(B[m [38;2;85;85;85msu[5C[30m(B[ms[38;2;85;85;85mu[6C[30m(B[m[36ms[38;2;85;85;85mu[6C[30m(B[m[36mu[7C[30m(B[m[7C[36ml[8C[30m(B[m[36mo[9C[30m(B[m[36mg[10C[30m(B[m[36mi[11C[30m(B[m[36mn[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb sulogin - bb[30m(B[mGive root password for maintenance
+(or type Ctrl-D to continue): 
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[35m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb sulogin[3C[30m(B[m[91mb[38;2;85;85;85mb sulogin[3C[30m(B[m[91mb[38;2;85;85;85m sulogin[4C[30m(B[m[34mbb[38;2;85;85;85m sulogin[4C[30m(B[m[34m [38;2;85;85;85msulogin[5C[30m(B[m [38;2;85;85;85msulogin[5C[30m(B[ms[38;2;85;85;85mulogin[6C[30m(B[m[36ms[38;2;85;85;85mulogin[6C[30m(B[m[36mw[30m(B[m[K[7C[36ma[8C[30m(B[m[36mp[9C[30m(B[m[36ml[10C[30m(B[m[36ma[11C[30m(B[m[36mb[12C[30m(B[m[36me[13C[30m(B[m[36ml[14C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb swaplabel - bb[30m(B[mswaplabel: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb swaplabel[3C[30m(B[m[91mb[38;2;85;85;85mb swaplabel[3C[30m(B[m[91mb[38;2;85;85;85m swaplabel[4C[30m(B[m[34mbb[38;2;85;85;85m swaplabel[4C[30m(B[m[34m [38;2;85;85;85mswaplabel[5C[30m(B[m [38;2;85;85;85mswaplabel[5C[30m(B[mw[K[6C[38;2;85;85;85match[6C[30m(B[m[36mw[38;2;85;85;85match[6C[30m(B[m[K[5Cs[6C[38;2;85;85;85mwaplabel[6C[30m(B[m[36ms[38;2;85;85;85mwaplabel[6C[30m(B[m[36mw[38;2;85;85;85maplabel[7C[30m(B[m[36ma[38;2;85;85;85mplabel[8C[30m(B[m[36mp[38;2;85;85;85mlabel[9C[30m(B[m[36mo[30m(B[m[K[10C[36mf[11C[30m(B[m[36mf[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb swapoff - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: swapoff [-a] [DEVICE]
+
+Stop swapping on DEVICE
+
+	-a	Stop swapping on all swap devices
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb swapoff[3C[30m(B[m[91mb[38;2;85;85;85mb swapoff[3C[30m(B[m[91mb[38;2;85;85;85m swapoff[4C[30m(B[m[34mbb[38;2;85;85;85m swapoff[4C[30m(B[m[34m [38;2;85;85;85mswapoff[5C[30m(B[m [38;2;85;85;85mswapoff[5C[30m(B[ms[38;2;85;85;85mwapoff[6C[30m(B[m[36ms[38;2;85;85;85mwapoff[6C[30m(B[m[36mw[38;2;85;85;85mapoff[7C[30m(B[m[36ma[38;2;85;85;85mpoff[8C[30m(B[m[36mp[38;2;85;85;85moff[9C[30m(B[m[36mo[38;2;85;85;85mff[10C[30m(B[m[36mn[30m(B[m[K[11C
+[30m(B[m[?2004l]0;cronie: bb swapon - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: swapon [-a] [-e] [-d[POL]] [-p PRI] [DEVICE]
+
+Start swapping on DEVICE
+
+	-a	Start swapping on all swap devices
+	-d[POL]	Discard blocks at swapon (POL=once),
+		as freed (POL=pages), or both (POL omitted)
+	-e	Silently skip devices that do not exist
+	-p PRI	Set swap device priority
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb swapon[3C[30m(B[m[91mb[38;2;85;85;85mb swapon[3C[30m(B[m[91mb[38;2;85;85;85m swapon[4C[30m(B[m[34mbb[38;2;85;85;85m swapon[4C[30m(B[m[34m [38;2;85;85;85mswapon[5C[30m(B[m [38;2;85;85;85mswapon[5C[30m(B[ms[38;2;85;85;85mwapon[6C[30m(B[m[36ms[38;2;85;85;85mwapon[6C[30m(B[m[36mw[38;2;85;85;85mapon[7C[30m(B[m[36mi[30m(B[m[K[8C[36mt[9C[30m(B[m[36mc[10C[30m(B[m[36mh[11C[30m(B[m[36m_[12C[30m(B[m[36mr[13C[30m(B[m[36mo[14C[30m(B[m[36mo[15C[30m(B[m[36mt[16C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb switch_root - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: switch_root [-c CONSOLE_DEV] NEW_ROOT NEW_INIT [ARGS]
+
+Free initramfs and switch to another root fs:
+chroot to NEW_ROOT, delete all in /, move NEW_ROOT to /,
+execute NEW_INIT. PID must be 1. NEW_ROOT must be a mountpoint.
+
+	-c DEV	Reopen stdio to DEV after switch
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb switch_root[3C[30m(B[m[91mb[38;2;85;85;85mb switch_root[3C[30m(B[m[91mb[38;2;85;85;85m switch_root[4C[30m(B[m[34mbb[38;2;85;85;85m switch_root[4C[30m(B[m[34m [38;2;85;85;85mswitch_root[5C[30m(B[m [38;2;85;85;85mswitch_root[5C[30m(B[mt[K[6C[38;2;85;85;85mar[6C[30m(B[m[36m[4mt[38;2;85;85;85m[24mar[6C[30m(B[m[36m[4ma[38;2;85;85;85m[24mr[7C[30m(B[m[36mta[38;2;85;85;85mr[7C[30m(B[m[36ms[8C[30m(B[m[36mk[9C[30m(B[m[36ms[10C[30m(B[m[36me[11C[30m(B[m[36mt[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb taskset - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: taskset [-ap] [HEXMASK | -c LIST] { PID | PROG ARGS }
+
+Set or get CPU affinity
+
+	-p	Operate on PID
+	-a	Operate on all threads
+	-c	Affinity is a list, not mask
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb taskset[3C[30m(B[m[91mb[38;2;85;85;85mb taskset[3C[30m(B[m[91mb[38;2;85;85;85m taskset[4C[30m(B[m[34mbb[38;2;85;85;85m taskset[4C[30m(B[m[34m [38;2;85;85;85mtaskset[5C[30m(B[m [38;2;85;85;85mtaskset[5C[30m(B[mt[38;2;85;85;85maskset[6C[30m(B[m[36m[4mt[38;2;85;85;85m[24maskset[6C[30m(B[m[36m[4mu[30m(B[m[K[7C[36mtu[7C[30m(B[m[36mn[8C[30m(B[m[36me[9C[30m(B[m[36ml[10C[30m(B[m[36mp[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb tunelp - bb[30m(B[mtunelp: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb tunelp[3C[30m(B[m[91mb[38;2;85;85;85mb tunelp[3C[30m(B[m[91mb[38;2;85;85;85m tunelp[4C[30m(B[m[34mbb[38;2;85;85;85m tunelp[4C[30m(B[m[34m [38;2;85;85;85mtunelp[5C[30m(B[m [38;2;85;85;85mtunelp[5C[30m(B[mu[K[6C[36mu[6C[30m(B[m[38;2;85;85;85mnzip[6C[30m(B[m[36mc[30m(B[m[K[7C[36ma[8C[30m(B[m[K[7C[36ml[8C[30m(B[m[36ma[9C[30m(B[m[36mm[10C[30m(B[m[36mp[11C[30m(B[m[36ms[12C[30m(B[m[36me[13C[30m(B[m[36mt[14C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb uclampset - bb[30m(B[muclampset: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb uclampset[3C[30m(B[m[91mb[38;2;85;85;85mb uclampset[3C[30m(B[m[91mb[38;2;85;85;85m uclampset[4C[30m(B[m[34mbb[38;2;85;85;85m uclampset[4C[30m(B[m[34m [38;2;85;85;85muclampset[5C[30m(B[m [38;2;85;85;85muclampset[5C[30m(B[mu[38;2;85;85;85mclampset[6C[30m(B[m[36mu[38;2;85;85;85mclampset[6C[30m(B[m[36ml[30m(B[m[K[7C
+[30m(B[m[?2004l]0;cronie: bb ul - bb[30m(B[mul: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb ul[3C[30m(B[m[91mb[38;2;85;85;85mb ul[3C[30m(B[m[91mb[38;2;85;85;85m ul[4C[30m(B[m[34mbb[38;2;85;85;85m ul[4C[30m(B[m[34m [38;2;85;85;85mul[5C[30m(B[m [38;2;85;85;85mul[5C[30m(B[mu[38;2;85;85;85ml[6C[30m(B[m[36mu[38;2;85;85;85ml[6C[30m(B[m[36mm[7C[30m(B[m[36mo[8C[30m(B[m[36mu[9C[30m(B[m[36mn[10C[30m(B[m[36mt[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb umount - bb[30m(B[mBusyBox v1.36.1 () multi-call binary.
+
+Usage: umount [-rlfda] [-t FSTYPE] FILESYSTEM|DIRECTORY
+
+Unmount filesystems
+
+	-a	Unmount all filesystems
+	-r	Remount devices read-only if mount is busy
+	-l	Lazy umount (detach filesystem)
+	-f	Force umount (i.e., unreachable NFS server)
+	-d	Free loop device if it has been used
+	-t FSTYPE[,...]	Unmount only these filesystem type(s)
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb umount[3C[30m(B[m[91mb[38;2;85;85;85mb umount[3C[30m(B[m[91mb[38;2;85;85;85m umount[4C[30m(B[m[34mbb[38;2;85;85;85m umount[4C[30m(B[m[34m [38;2;85;85;85mumount[5C[30m(B[m [38;2;85;85;85mumount[5C[30m(B[mu[38;2;85;85;85mmount[6C[30m(B[m[36mu[38;2;85;85;85mmount[6C[30m(B[m[36mn[30m(B[m[K[7C[38;2;85;85;85mzip[7C[30m(B[m[36ma[30m(B[m[K[8C[38;2;85;85;85mme[8C[30m(B[m[36mm[38;2;85;85;85me[9C[30m(B[m[36me[10C[30m(B[m[10C[36m2[11C[30m(B[m[36m6[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb uname26 - bb[30m(B[muname26: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb uname26[3C[30m(B[m[91mb[38;2;85;85;85mb uname26[3C[30m(B[m[91mb[38;2;85;85;85m uname26[4C[30m(B[m[34mbb[38;2;85;85;85m uname26[4C[30m(B[m[34m [38;2;85;85;85muname26[5C[30m(B[m [38;2;85;85;85muname26[5C[30m(B[mu[38;2;85;85;85mname26[6C[30m(B[m[36mu[38;2;85;85;85mname26[6C[30m(B[m[36mn[38;2;85;85;85mame26[7C[30m(B[m[36ms[30m(B[m[K[8C[38;2;85;85;85mhar[8C[30m(B[m[36mh[38;2;85;85;85mar[9C[30m(B[m[36ma[38;2;85;85;85mr[10C[30m(B[m[36mr[11C[30m(B[m[11C[36me[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb unshare - bb[30m(B[m[1m[36m           [30m.[36m-------------------------:    
+          .[32m+=[36m========================.    
+         :[32m++[36m===[32m++===[36m===============-       :[32m++[36m-    
+        :[32m*++[36m====[32m+++++==[36m===========-        .==:    
+       -[32m*+++[36m=====[32m+***++=[36m=========:    
+      =[32m*++++=[36m=======------------:    
+     =[32m*+++++=[36m====-                     [30m...[36m    
+   .[32m+*+++++[36m=-===:                    .[32m=+++=[36m:    
+  :[32m++++[36m=====-==:                     -***[32m**[36m+    
+ :[32m++=[36m=======-=.                      .=+**+[30m.[36m    
+.[32m+[36m==========-.                          [30m.[36m    
+ :[32m+++++++[36m====-                                [30m.[36m--==-[30m.[36m    
+  :[32m++[36m==========.                             [30m:[32m+++++++[36m[30m:    
+   [36m.-===========.                            =*****+*+    
+    [36m.-===========:                           .+*****+:    
+      [36m-=======[32m++++[36m:::::::::::::::::::::::::-:  [30m.[36m---:    
+       :======[32m++++[36m====[32m+++******************=.    
+        [36m:=====[32m+++[36m==========[32m++++++++++++++*-    
+         [36m.====[32m++[36m==============[32m++++++++++*-    
+          [36m.===[32m+[36m==================[32m+++++++:    
+           [36m.-=======================[32m+++:    
+             [30m..........................[0m[1G[21A[0m[?25l[?7l[58C[1m[36mplastek[0m@[1m[36mplastekcachy[0m
+[58C--------------------
+[58C[0m[1m[36mOS[0m: [0mCachyOS Linux x86_64
+[58C[0m[1m[36mHost[0m: [0mFMVA50B3WP
+[58C[0m[1m[36mKernel[0m: [0m6.5.7-1-cachyos-pds-lto
+[58C[0m[1m[36mUptime[0m: [0m5 hours, 49 mins
+[58C[0m[1m[36mPackages[0m: [0m1735 (pacman)
+[58C[0m[1m[36mShell[0m: [0mfish 3.6.1
+[58C[0m[1m[36mDisplay (CMN15DC)[0m: [0m1366x768 @ 60Hz
+[58C[0m[1m[36mDE[0m: [0mKDE Plasma 5.27.8
+[58C[0m[1m[36mWM[0m: [0mKWin (X11)
+[58C[0m[1m[36mWM Theme[0m: [0mK01
+[58C[0m[1m[36mTheme[0m: [0mFusion (PlasmaXLight) [QT], Breeze [GTK2/3/4]
+[58C[0m[1m[36mIcons[0m: [0mbreeze [QT], breeze [GTK2/3/4]
+[58C[0m[1m[36mFont[0m: [0mNoto Sans CJK JP (10pt) [QT], Noto Sans CJK JP (10pt) [GTK2/3/4]
+[58C[0m[1m[36mCursor[0m: [0maerodrop (24px)
+[58C[0m[1m[36mTerminal[0m: [0mbusybox
+[58C[0m[1m[36mCPU[0m: [0mIntel(R) Core(TM) i7-7700HQ (8) @ 3.80 GHz
+[58C[0m[1m[36mGPU[0m: [0mIntel HD Graphics 630
+[58C[0m[1m[36mMemory[0m: [0m1.96 GiB / 3.68 GiB (53%)
+[58C[0m[1m[36mDisk (]8;;file:///\/]8;;\)[0m: [0m87.33 GiB / 169.92 GiB (51%) - ext4
+[58C[0m[1m[36mDisk (]8;;file:///mnt/alpine\/mnt/alpine]8;;\)[0m: [0m31.38 GiB / 48.99 GiB (64%) - ext4
+[58C[0m[1m[36mBattery[0m: [0m94% [Not charging]
+[58C[0m[1m[36mLocale[0m: [0mja_JP.UTF-8
+[58C
+[58C[40;30m███[41;31m███[42;32m███[43;33m███[44;34m███[45;35m███[46;36m███[47;37m███[0m
+[58C[1;40;30;100;90m███[1;41;31;101;91m███[1;42;32;102;92m███[1;43;33;103;93m███[1;44;34;104;94m███[1;45;35;105;95m███[1;46;36;106;96m███[1;47;37;107;97m███[0m
+[?7h[?25h[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[35m❯(B[m [K[C[Cb[3C[91mb[3C[30m(B[m[38;2;85;85;85mb unshare[3C[30m(B[m[91mb[38;2;85;85;85m unshare[4C[30m(B[m[34mbb[38;2;85;85;85m unshare[4C[30m(B[m[34m [38;2;85;85;85munshare[5C[30m(B[m [38;2;85;85;85munshare[5C[30m(B[mu[38;2;85;85;85mnshare[6C[30m(B[m[36mu[38;2;85;85;85mnshare[6C[30m(B[m[36mt[30m(B[m[K[7C[36mm[8C[30m(B[m[36mp[9C[30m(B[m[36md[10C[30m(B[m[36mu[11C[30m(B[m[36mm[12C[30m(B[m[36mp[13C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb utmpdump - bb[30m(B[mutmpdump: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb utmpdump[3C[30m(B[m[91mb[38;2;85;85;85mb utmpdump[3C[30m(B[m[91mb[38;2;85;85;85m utmpdump[4C[30m(B[m[34mbb[38;2;85;85;85m utmpdump[4C[30m(B[m[34m [38;2;85;85;85mutmpdump[5C[30m(B[m [38;2;85;85;85mutmpdump[5C[30m(B[mu[38;2;85;85;85mtmpdump[6C[30m(B[m[36mu[38;2;85;85;85mtmpdump[6C[30m(B[m[36mu[30m(B[m[K[7C[38;2;85;85;85mencode[7C[30m(B[m[36mi[30m(B[m[K[8C[36md[9C[30m(B[m[36md[10C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb uuidd - bb[30m(B[muuidd: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb uuidd[3C[30m(B[m[91mb[38;2;85;85;85mb uuidd[3C[30m(B[m[91mb[38;2;85;85;85m uuidd[4C[30m(B[m[34mbb[38;2;85;85;85m uuidd[4C[30m(B[m[34m [38;2;85;85;85muuidd[5C[30m(B[m [38;2;85;85;85muuidd[5C[30m(B[mu[38;2;85;85;85muidd[6C[30m(B[m[36mu[38;2;85;85;85muidd[6C[30m(B[m[36mu[38;2;85;85;85midd[7C[30m(B[m[36mi[38;2;85;85;85mdd[8C[30m(B[m[36md[38;2;85;85;85md[9C[30m(B[m[36mg[10C[30m(B[m[36me[11C[30m(B[m[36mn[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb uuidgen - bb[30m(B[muuidgen: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb uuidgen[3C[30m(B[m[91mb[38;2;85;85;85mb uuidgen[3C[30m(B[m[91mb[38;2;85;85;85m uuidgen[4C[30m(B[m[34mbb[38;2;85;85;85m uuidgen[4C[30m(B[m[34m [38;2;85;85;85muuidgen[5C[30m(B[m [38;2;85;85;85muuidgen[5C[30m(B[mu[38;2;85;85;85muidgen[6C[30m(B[m[36mu[38;2;85;85;85muidgen[6C[30m(B[m[36mu[38;2;85;85;85midgen[7C[30m(B[m[36mi[38;2;85;85;85mdgen[8C[30m(B[m[36md[38;2;85;85;85mgen[9C[30m(B[m[36mp[30m(B[m[K[10C[36ma[11C[30m(B[m[36mr[12C[30m(B[m[36ms[13C[30m(B[m[36me[14C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb uuidparse - bb[30m(B[muuidparse: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb uuidparse[3C[30m(B[m[91mb[38;2;85;85;85mb uuidparse[3C[30m(B[m[91mb[38;2;85;85;85m uuidparse[4C[30m(B[m[34mbb[38;2;85;85;85m uuidparse[4C[30m(B[m[34m [38;2;85;85;85muuidparse[5C[30m(B[m [38;2;85;85;85muuidparse[5C[30m(B[mv[K[6C[38;2;85;85;85mmstat[6C[30m(B[m[36mv[38;2;85;85;85mmstat[6C[30m(B[m[36mi[30m(B[m[K[7C[36mg[8C[30m(B[m[36mr[9C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb vigr - bb[30m(B[mvigr: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb vigr[3C[30m(B[m[91mb[38;2;85;85;85mb vigr[3C[30m(B[m[91mb[38;2;85;85;85m vigr[4C[30m(B[m[34mbb[38;2;85;85;85m vigr[4C[30m(B[m[34m [38;2;85;85;85mvigr[5C[30m(B[m [38;2;85;85;85mvigr[5C[30m(B[mv[38;2;85;85;85migr[6C[30m(B[m[36mv[38;2;85;85;85migr[6C[30m(B[m[36mi[38;2;85;85;85mgr[7C[30m(B[m[36m@[30m(B[m[K[8C[36mp[9C[30m(B[m[36mw[10C[30m(B[m[K[9C[K[8C[K[7C[36mp[8C[30m(B[m[36mw[9C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb vipw - bb[30m(B[mvipw: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb vipw[3C[30m(B[m[91mb[38;2;85;85;85mb vipw[3C[30m(B[m[91mb[38;2;85;85;85m vipw[4C[30m(B[m[34mbb[38;2;85;85;85m vipw[4C[30m(B[m[34m [38;2;85;85;85mvipw[5C[30m(B[m [38;2;85;85;85mvipw[5C[30m(B[mw[K[6C[36mw[6C[30m(B[m[38;2;85;85;85match[6C[30m(B[m[36ma[38;2;85;85;85mtch[7C[30m(B[m[36mi[30m(B[m[K[8C[36mt[9C[30m(B[m[36mp[10C[30m(B[m[36mi[11C[30m(B[m[36md[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb waitpid - bb[30m(B[mwaitpid: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb waitpid[3C[30m(B[m[91mb[38;2;85;85;85mb waitpid[3C[30m(B[m[91mb[38;2;85;85;85m waitpid[4C[30m(B[m[34mbb[38;2;85;85;85m waitpid[4C[30m(B[m[34m [38;2;85;85;85mwaitpid[5C[30m(B[m [38;2;85;85;85mwaitpid[5C[30m(B[mw[38;2;85;85;85maitpid[6C[30m(B[m[36mw[38;2;85;85;85maitpid[6C[30m(B[m[36ma[38;2;85;85;85mitpid[7C[30m(B[m[36ml[30m(B[m[K[8C[36ml[9C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb wall - bb[30m(B[mwall: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb wall[3C[30m(B[m[91mb[38;2;85;85;85mb wall[3C[30m(B[m[91mb[38;2;85;85;85m wall[4C[30m(B[m[34mbb[38;2;85;85;85m wall[4C[30m(B[m[34m [38;2;85;85;85mwall[5C[30m(B[m [38;2;85;85;85mwall[5C[30m(B[mw[38;2;85;85;85mall[6C[30m(B[m[36mw[38;2;85;85;85mall[6C[30m(B[m[36md[30m(B[m[K[7C[36mc[8C[30m(B[m[36mt[9C[30m(B[m[36ml[10C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb wdctl - bb[30m(B[mwdctl: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb wdctl[3C[30m(B[m[91mb[38;2;85;85;85mb wdctl[3C[30m(B[m[91mb[38;2;85;85;85m wdctl[4C[30m(B[m[34mbb[38;2;85;85;85m wdctl[4C[30m(B[m[34m [38;2;85;85;85mwdctl[5C[30m(B[m [38;2;85;85;85mwdctl[5C[30m(B[mw[38;2;85;85;85mdctl[6C[30m(B[m[36mw[38;2;85;85;85mdctl[6C[30m(B[m[36mh[30m(B[m[K[7C[38;2;85;85;85mo[7C[30m(B[m[36me[8C[30m(B[m[36mr[9C[30m(B[m[36me[10C[30m(B[m[36mi[11C[30m(B[m[36ms[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb whereis - bb[30m(B[mwhereis: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb whereis[3C[30m(B[m[91mb[38;2;85;85;85mb whereis[3C[30m(B[m[91mb[38;2;85;85;85m whereis[4C[30m(B[m[34mbb[38;2;85;85;85m whereis[4C[30m(B[m[34m [38;2;85;85;85mwhereis[5C[30m(B[m [38;2;85;85;85mwhereis[5C[30m(B[mw[38;2;85;85;85mhereis[6C[30m(B[m[36mw[38;2;85;85;85mhereis[6C[30m(B[m[36mi[30m(B[m[K[7C[36mp[8C[30m(B[m[36me[9C[30m(B[m[36mf[10C[30m(B[m[36ms[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb wipefs - bb[30m(B[mwipefs: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb wipefs[3C[30m(B[m[91mb[38;2;85;85;85mb wipefs[3C[30m(B[m[91mb[38;2;85;85;85m wipefs[4C[30m(B[m[34mbb[38;2;85;85;85m wipefs[4C[30m(B[m[34m [38;2;85;85;85mwipefs[5C[30m(B[m [38;2;85;85;85mwipefs[5C[30m(B[mw[38;2;85;85;85mipefs[6C[30m(B[m[36mw[38;2;85;85;85mipefs[6C[30m(B[m[36mr[30m(B[m[K[7C[36mi[8C[30m(B[m[36mt[9C[30m(B[m[36me[10C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb write - bb[30m(B[mwrite: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb write[3C[30m(B[m[91mb[38;2;85;85;85mb write[3C[30m(B[m[91mb[38;2;85;85;85m write[4C[30m(B[m[34mbb[38;2;85;85;85m write[4C[30m(B[m[34m [38;2;85;85;85mwrite[5C[30m(B[m [38;2;85;85;85mwrite[5C[30m(B[mx[K[6C[36mx[6C[30m(B[m[38;2;85;85;85margs[6C[30m(B[m[36m8[30m(B[m[K[7C[36m6[8C[30m(B[m[36m_[9C[30m(B[m[36m6[10C[30m(B[m[36m4[11C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb x86_64 - bb[30m(B[mx86_64: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[Cb[3C[38;2;85;85;85mb x86_64[3C[30m(B[m[91mb[38;2;85;85;85mb x86_64[3C[30m(B[m[91mb[38;2;85;85;85m x86_64[4C[30m(B[m[34mbb[38;2;85;85;85m x86_64[4C[30m(B[m[34m [38;2;85;85;85mx86_64[5C[30m(B[m [38;2;85;85;85mx86_64[5C[30m(B[mz[K[6C[38;2;85;85;85mipsplit[6C[30m(B[m[36mz[38;2;85;85;85mipsplit[6C[30m(B[m[36mr[30m(B[m[K[7C[36ma[8C[30m(B[m[36mm[9C[30m(B[m[36mc[10C[30m(B[m[36mt[11C[30m(B[m[36ml[12C[30m(B[m
+[30m(B[m[?2004l]0;cronie: bb zramctl - bb[30m(B[mzramctl: applet not found
+[2m⏎(B[m                                                                                             ⏎ [K
+[?2004h]0;~/plas/plasticgaming99.github.io/src/bbcompat/cronie - fish[30m(B[m[K[34m~/plas/plasticgaming99.github.io/src/bbcompat/cronie [90mmain[90m* [36m⇡[K
+[31m❯(B[m [K[C[C

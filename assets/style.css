@@ -23,14 +23,15 @@ info{
 .boxes {
     display: flex;
     align-items: flex-start;
+    justify-content: flex-start;
 }
 
 .itismain {
-    display        : inline-block;
     color          : white;            /* 文字の色 */
     font-size      : 2.7vw;               /* 文字のサイズ */
     letter-spacing : 0.3vw;                /* 文字間 */
     font-family: sans-serif;
+    flex-grow: 2;
     text-shadow    : 
          0.15vw  0.15vw 0.075vw #000000,
         -0.15vw  0.15vw 0.075vw #000000,
@@ -43,11 +44,11 @@ info{
 }
 
 .maintext {
-    display        : inline-block;
     color          : gainsboro;            /* 文字の色 */
     font-size      : 1.8vw;               /* 文字のサイズ */
     letter-spacing : 0.3vw;                /* 文字間 */
     font-family: sans-serif;
+    flex: grow 2;
     text-shadow    : 
          0.15vw  0.15vw 0.075vw #000000,
         -0.15vw  0.15vw 0.075vw #000000,

@@ -1,0 +1,123 @@
+# This is an example PKGBUILD file. Use this as a start to creating your own,
+# and remove these comments. For more information, see 'man PKGBUILD'.
+# NOTE: Please fill out the license field for your package! If it is unknown,
+# then please put 'unknown'.
+
+# Maintainer: plasicgaming99 <plsplastic-roblox@protonmail.com>
+pkgname=coreutils
+pkgver=1.0.0
+
+pkgrel=1
+epoch=
+pkgdesc="Symlink for Busybox"
+arch=('any')
+url=""
+license=('WTFPL')
+depends=('busybox')
+makedepends=('busybox')
+checkdepends=()
+optdepends=()
+options=()
+source=()
+noextract=()
+
+build() {
+	mkdir -p "$pkgname-$pkgver/bin"
+	cd "$pkgname-$pkgver"
+	ln -s "/bin/busybox" "bin/["
+	ln -s "/bin/busybox" "bin/tac"
+	ln -s "/bin/busybox" "bin/cat"
+	ln -s "/bin/busybox" "bin/nl"
+	ln -s "/bin/busybox" "bin/od"
+	ln -s "/bin/busybox" "bin/base32"
+	ln -s "/bin/busybox" "bin/base64"
+	ln -s "/bin/busybox" "bin/fold"
+	ln -s "/bin/busybox" "bin/head"
+	ln -s "/bin/busybox" "bin/tail"
+	ln -s "/bin/busybox" "bin/split"
+	ln -s "/bin/busybox" "bin/wc"
+	ln -s "/bin/busybox" "bin/sum"
+	ln -s "/bin/busybox" "bin/cksum"
+	ln -s "/bin/busybox" "bin/md5sum"
+	ln -s "/bin/busybox" "bin/sha1sum"
+	ln -s "/bin/busybox" "bin/sha256sum"
+	ln -s "/bin/busybox" "bin/sha512sum"
+	ln -s "/bin/busybox" "bin/sort"
+	ln -s "/bin/busybox" "bin/shuf"
+	ln -s "/bin/busybox" "bin/uniq"
+	ln -s "/bin/busybox" "bin/comm"
+	ln -s "/bin/busybox" "bin/tsort"
+	ln -s "/bin/busybox" "bin/cut"
+	ln -s "/bin/busybox" "bin/paste"
+	ln -s "/bin/busybox" "bin/tr"
+	ln -s "/bin/busybox" "bin/expand"
+	ln -s "/bin/busybox" "bin/unexpand"
+	ln -s "/bin/busybox" "bin/ls"
+	ln -s "/bin/busybox" "bin/cp"
+	ln -s "/bin/busybox" "bin/dd"
+	ln -s "/bin/busybox" "bin/install"
+	ln -s "/bin/busybox" "bin/mv"
+	ln -s "/bin/busybox" "bin/rm"
+	ln -s "/bin/busybox" "bin/shred"
+	ln -s "/bin/busybox" "bin/link"
+	ln -s "/bin/busybox" "bin/ln"
+	ln -s "/bin/busybox" "bin/mkdir"
+	ln -s "/bin/busybox" "bin/mkfifo"
+	ln -s "/bin/busybox" "bin/mknod"
+	ln -s "/bin/busybox" "bin/readlink"
+	ln -s "/bin/busybox" "bin/rmdir"
+	ln -s "/bin/busybox" "bin/unlink"
+	ln -s "/bin/busybox" "bin/chown"
+	ln -s "/bin/busybox" "bin/chgrp"
+	ln -s "/bin/busybox" "bin/chmod"
+	ln -s "/bin/busybox" "bin/touch"
+	ln -s "/bin/busybox" "bin/df"
+	ln -s "/bin/busybox" "bin/du"
+	ln -s "/bin/busybox" "bin/stat"
+	ln -s "/bin/busybox" "bin/sync"
+	ln -s "/bin/busybox" "bin/truncate"
+	ln -s "/bin/busybox" "bin/echo"
+	ln -s "/bin/busybox" "bin/printf"
+	ln -s "/bin/busybox" "bin/yes"
+	ln -s "/bin/busybox" "bin/false"
+	ln -s "/bin/busybox" "bin/true"
+	ln -s "/bin/busybox" "bin/test"
+	ln -s "/bin/busybox" "bin/expr"
+	ln -s "/bin/busybox" "bin/tee"
+	ln -s "/bin/busybox" "bin/basename"
+	ln -s "/bin/busybox" "bin/dirname"
+	ln -s "/bin/busybox" "bin/mktemp"
+	ln -s "/bin/busybox" "bin/realpath"
+	ln -s "/bin/busybox" "bin/pwd"
+	ln -s "/bin/busybox" "bin/stty"
+	ln -s "/bin/busybox" "bin/printenv"
+	ln -s "/bin/busybox" "bin/tty"
+	ln -s "/bin/busybox" "bin/id"
+	ln -s "/bin/busybox" "bin/logname"
+	ln -s "/bin/busybox" "bin/whoami"
+	ln -s "/bin/busybox" "bin/groups"
+	ln -s "/bin/busybox" "bin/date"
+	ln -s "/bin/busybox" "bin/arch"
+	ln -s "/bin/busybox" "bin/nproc"
+	ln -s "/bin/busybox" "bin/uname"
+	ln -s "/bin/busybox" "bin/hostname"
+	ln -s "/bin/busybox" "bin/hostid"
+	ln -s "/bin/busybox" "bin/uptime"
+	ln -s "/bin/busybox" "bin/chroot"
+	ln -s "/bin/busybox" "bin/env"
+	ln -s "/bin/busybox" "bin/nice"
+	ln -s "/bin/busybox" "bin/nohup"
+	ln -s "/bin/busybox" "bin/timeout"
+	ln -s "/bin/busybox" "bin/kill"
+	ln -s "/bin/busybox" "bin/sleep"
+	ln -s "/bin/busybox" "bin/factor"
+	ln -s "/bin/busybox" "bin/seq"
+}
+
+package() {
+	cd "$pkgname-$pkgver/bin"
+	mkdir -p "$pkgdir/usr/bin"
+	cp * "$pkgdir/usr/bin"
+	cd "$pkgdir/usr/bin"
+	chmod 755 *
+}

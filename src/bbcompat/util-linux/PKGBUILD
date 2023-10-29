@@ -1,0 +1,88 @@
+# This is an example PKGBUILD file. Use this as a start to creating your own,
+# and remove these comments. For more information, see 'man PKGBUILD'.
+# NOTE: Please fill out the license field for your package! If it is unknown,
+# then please put 'unknown'.
+
+# Maintainer: plasicgaming99 <plsplastic-roblox@protonmail.com>
+pkgname=util-linux
+pkgver=1.0.0
+
+pkgrel=1
+epoch=
+pkgdesc="Symlink for Busybox"
+arch=('any')
+url=""
+license=('WTFPL')
+depends=('busybox')
+makedepends=()
+checkdepends=()
+optdepends=()
+options=()
+source=()
+noextract=()
+
+build() {
+	mkdir -p "$pkgname-$pkgver/bin"
+	cd "$pkgname-$pkgver"
+	ln -s "/bin/busybox" "bin/blkid"
+	ln -s "/bin/busybox" "bin/blkdiscard"
+	ln -s "/bin/busybox" "bin/blockdev"
+	ln -s "/bin/busybox" "bin/cal"
+	ln -s "/bin/busybox" "bin/chrt"
+	ln -s "/bin/busybox" "bin/dmesg"
+	ln -s "/bin/busybox" "bin/eject"
+	ln -s "/bin/busybox" "bin/fallocate"
+	ln -s "/bin/busybox" "bin/fdisk"
+	ln -s "/bin/busybox" "bin/findfs"
+	ln -s "/bin/busybox" "bin/flock"
+	ln -s "/bin/busybox" "bin/fsck"
+	ln -s "/bin/busybox" "bin/fsck.minix"
+	ln -s "/bin/busybox" "bin/fsfreeze"
+	ln -s "/bin/busybox" "bin/fstrim"
+	ln -s "/bin/busybox" "bin/getopt"
+	ln -s "/bin/busybox" "bin/hexdump"
+	ln -s "/bin/busybox" "bin/hwclock"
+	ln -s "/bin/busybox" "bin/ionice"
+	ln -s "/bin/busybox" "bin/ipcrm"
+	ln -s "/bin/busybox" "bin/ipcs"
+	ln -s "/bin/busybox" "bin/kill"
+	ln -s "/bin/busybox" "bin/linux32"
+	ln -s "/bin/busybox" "bin/linux64"
+	ln -s "/bin/busybox" "bin/logger"
+	ln -s "/bin/busybox" "bin/login"
+	ln -s "/bin/busybox" "bin/losetup"
+	ln -s "/bin/busybox" "bin/mesg"
+	ln -s "/bin/busybox" "bin/mkfs.minix"
+	ln -s "/bin/busybox" "bin/mkswap"
+	ln -s "/bin/busybox" "bin/more"
+	ln -s "/bin/busybox" "bin/mount"
+	ln -s "/bin/busybox" "bin/mountpoint"
+	ln -s "/bin/busybox" "bin/nsenter"
+	ln -s "/bin/busybox" "bin/pivot_root"
+	ln -s "/bin/busybox" "bin/readprofile"
+	ln -s "/bin/busybox" "bin/renice"
+	ln -s "/bin/busybox" "bin/rev"
+	ln -s "/bin/busybox" "bin/rfkill"
+	ln -s "/bin/busybox" "bin/rtcwake"
+	ln -s "/bin/busybox" "bin/script"
+	ln -s "/bin/busybox" "bin/scriptreplay"
+	ln -s "/bin/busybox" "bin/setarch"
+	ln -s "/bin/busybox" "bin/setpriv"
+	ln -s "/bin/busybox" "bin/setsid"
+	ln -s "/bin/busybox" "bin/su"
+	ln -s "/bin/busybox" "bin/sulogin"
+	ln -s "/bin/busybox" "bin/swapoff"
+	ln -s "/bin/busybox" "bin/swapon"
+	ln -s "/bin/busybox" "bin/switch_root"
+	ln -s "/bin/busybox" "bin/taskset"
+	ln -s "/bin/busybox" "bin/umount"
+	ln -s "/bin/busybox" "bin/unshare"
+}
+
+package() {
+	cd "$pkgname-$pkgver/bin"
+	mkdir -p "$pkgdir/usr/bin"
+	cp * "$pkgdir/usr/bin"
+	cd "$pkgdir/usr/bin"
+	chmod 755 *
+}
